@@ -32,7 +32,7 @@
 </template>
 
 <script>
-import { useUserStore } from '@/stores/user';
+import { useUserStore } from '@/Stores/user';
 
 export default {
     data () {
